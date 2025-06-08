@@ -4,3 +4,8 @@ Aby otrzymać plik skompresowany należy użyć komendy:
 cat nowaMetoda* > nowaMetoda.tar.gz
 
 ```
+oraz:
+```bash
+cat boot* > staraMetoda.tar.gz
+
+```
